@@ -42,7 +42,7 @@
   "KG.RechargeSpirit": "霊力を回復しました！",
   "KG.UseSpiritAlert": "霊力を消費しますか？",
   "KG.UseSpiritMessage": "霊力を消費しました",
-  "KG.ChangeSpiritAlert": "霊力操作をしますか？",
+  "KG.ChangeSpiritAlert": "変更する出目を入力してください",
   "KG.ChangeSpiritMessage": "霊力が変更されました",
   "KG.TalentCreate": "新規タレント作成",
   "KG.Description": "説明",
@@ -79,5 +79,4 @@
   "KG.Money": "所持金",
   "KG.LookDefault": "年齢: \r\n性別: \r\n瞳の色: \r\n髪の色: \r\nその他: ",
   "KG.SpiritLookDefault": "起源: \r\n霊紋の位置: \r\n霊紋の形状: "
-
 }
