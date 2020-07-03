@@ -1,23 +1,31 @@
 {
-	"name": "kamigakarija",
-	"title": "日本語化（神我狩）",
-	"description": "オンセ工房用の神我狩システムの翻訳ファイルを組み込むモッド。",
-	"version": "0.1",
-	"author": "Brother Sharp, trpg_yoshi",
-	"languages": [
-		{
-			"lang": "ja",
-			"system":"kamigakari",
-			"name": "日本語",
-			"path": "lang/ja.json"
-		}
-	],
-	"scripts": [],
-  "styles" : [],
-  "packs": [],
-	"url" : "https://github.com/BrotherSharper/kamigakarija",
-	"download" : "https://github.com/BrotherSharper/kamigakarija/archive/master.zip",
-	"manifest" : "https://raw.githubusercontent.com/BrotherSharper/kamigakarija/master/module.json",
+  "name": "kamigakarija",
+  "title": "日本語化（神我狩）",
+  "description": "オンセ工房用の神我狩システムの翻訳ファイルを組み込むモッド。",
+  "version": "0.1",
+  "author": "Brother Sharp, trpg_yoshi",
+  "languages": [
+    {
+      "lang": "ja",
+      "system": "kamigakari",
+      "name": "日本語",
+      "path": "lang/ja.json"
+    }
+  ],
+  "scripts": [],
+  "styles": [],
+  "packs": [
+    {
+      "name": "spirit",
+      "label": "霊力マクロ",
+      "system": "kamigakari",
+      "path": "./packs/spirit.db",
+      "entity": "Macro"
+    }
+  ],
+  "url": "https://github.com/BrotherSharper/kamigakarija",
+  "download": "https://github.com/BrotherSharper/kamigakarija/archive/master.zip",
+  "manifest": "https://raw.githubusercontent.com/BrotherSharper/kamigakarija/master/module.json",
   "minimumCoreVersion": "0.6.0",
   "compatibleCoreVersion": "0.6.4"
 }

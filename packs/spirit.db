@@ -1,0 +1,2 @@
+{"name":"霊力操作","permission":{"default":3},"type":"script","flags":{},"scope":"global","command":"game.kamigakari.influence();","author":"qbUuGvCaFbrkiBWc","img":"icons/svg/dice-target.svg","actorIds":[],"_id":"7Cqrd4ASuqwgCga2"}
+{"name":"霊力の個数変更","permission":{"default":3},"type":"script","flags":{},"scope":"global","command":"game.kamigakari.setSpiritDice();","author":"qbUuGvCaFbrkiBWc","img":"icons/svg/dice-target.svg","actorIds":[],"_id":"uzKs9YrlNx0DAS7j"}
