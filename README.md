@@ -3,7 +3,7 @@
 - **製作者**: Brother Sharp (ディスコード：Brother Sharp#6921)
 - **翻訳ファイル提供者**: trpg_yoshi ([@blhsrwznrghfzpr](https://github.com/blhsrwznrghfzpr))
 - **対応神我狩バージョン**: 0.2.0
-- **mod バージョン**: 0.1.1
+- **mod バージョン**: 0.2.0
 
 ### インストール方法
 
