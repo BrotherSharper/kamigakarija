@@ -78,5 +78,17 @@
   "KG.Quantity": "個数",
   "KG.Money": "所持金",
   "KG.LookDefault": "年齢: \r\n性別: \r\n瞳の色: \r\n髪の色: \r\nその他: ",
-  "KG.SpiritLookDefault": "起源: \r\n霊紋の位置: \r\n霊紋の形状: "
+  "KG.SpiritLookDefault": "起源: \r\n霊紋の位置: \r\n霊紋の形状: ",
+  "KG.Move": "移動力",
+  "KG.ACCFix": "命中(固定値)",
+  "KG.EVAFix": "回避(固定値)",
+  "KG.IVCFix": "発動(固定値)",
+  "KG.RESFix": "抵抗(固定値)",
+  "KG.CHKFix": "判定(固定値)",
+  "KG.BasicStat": "ステータス",
+  "KG.ActionStat": "戦闘値",
+  "KG.Attack": "攻撃",
+  "KG.Materials": "素材",
+  "KG.AttackOptions": "攻撃方法",
+  "KG.EnermyDefault": "種別: \t\tサイズ: \t\t 知能: \r\n感覚: \t\t会話: \t\t反応: \r\n知名度: \t\t弱点: \r\n移動: "
 }
