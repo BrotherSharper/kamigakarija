@@ -90,5 +90,12 @@
   "KG.Attack": "攻撃",
   "KG.Materials": "素材",
   "KG.AttackOptions": "攻撃方法",
-  "KG.EnermyDefault": "種別: \t\tサイズ: \t\t 知能: \r\n感覚: \t\t会話: \t\t反応: \r\n知名度: \t\t弱点: \r\n移動: "
+  "KG.EnermyDefault": "種別: \t\tサイズ: \t\t 知能: \r\n感覚: \t\t会話: \t\t反応: \r\n知名度: \t\t弱点: \r\n移動: ",
+  "KG.SpiritBurn": "霊紋燃焼",
+  "KG.Transcend": "物理超越",
+  "KG.TranscendAlert": "霊紋燃焼 - 物理超越: 追加するダイス数を入力してください (1 ~ 3)",
+  "KG.VitalIgnition": "生命燃焼",
+  "KG.ConceptDestruction": "概念破壊",
+  "KG.AddRank": "ランク追加",
+  "KG.UseItem": "アイテム使用"
 }
