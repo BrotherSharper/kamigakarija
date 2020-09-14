@@ -97,5 +97,8 @@
   "KG.VitalIgnition": "生命燃焼",
   "KG.ConceptDestruction": "概念破壊",
   "KG.AddRank": "ランク追加",
-  "KG.UseItem": "アイテム使用"
+  "KG.UseItem": "アイテム使用",
+  "KG.Formula": "式",
+  "KG.RollAttack": "攻撃",
+  "KG.Memo": "メモ"
 }
