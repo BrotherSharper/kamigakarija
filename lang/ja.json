@@ -128,7 +128,7 @@
   "KG.AfterRound": "ラウンド終了後",
   "KG.AfterBattle": "戦闘終了後",
   "KG.RangePD": "※物D（射撃武器）",
-  "KG.AddRoll": "追加ダイスや達成値増減があれば入力してください。",
+  "KG.AddRoll": "追加ダイス・達成値修正を入力",
   "KG.DamageReduce": "ダメージ減少",
   "KG.Half": "半減",
   "KG.AddArmor": "装甲追加",
@@ -156,5 +156,7 @@
   "KG.Macro": "マクロ",
 
   "SETTINGS.TalentClassify": "タレント分類分け",
-  "SETTINGS.TalentClassifyDesc": "タレントを種族・称号・共通に分けて表示します。"
+  "SETTINGS.TalentClassifyDesc": "タレントを種族・称号・共通に分けて表示します。",
+  "SETTINGS.RollAddon": "判定修正ダイアログを表示",
+  "SETTINGS.RollAddonDesc": "判定時に、追加の修正を入力するためのダイアログを表示します。"
 }
